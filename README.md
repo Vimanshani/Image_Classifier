@@ -1,4 +1,4 @@
-# Emotion Detection with CNN (Image Classification Project)
+# Image Classification with CNN 
 
 ## Overview:
 This project is about building a Convolutional Neural Network (CNN) to classify facial images into two emotions: happy (0) and sad (1). The model is built using Python, TensorFlow, and Keras, and it achieves over 90% validation accuracy. It also consistently shows good convergence between training and validation loss.
